@@ -10,7 +10,7 @@ Software Engineering Intern July 2023 - September 2023
 
 • Identified an inefficient billing process and successfully pitched a solution based on
 **C#** and **ClosedXML**. Independently designed, built, and delivered a fully-documented
-solution on schedule. **Reduced a 4-hour process to seconds**.
+solution on schedule. **Reduced a 4-hour process to seconds**. Repo hosted on [GitHub](https://github.com/JDKaim/VendorMerge).
 
 • Performed exploratory testing to identify and diagnose issues with proprietary remote
 management technology across environments. Documented findings and worked with
@@ -37,7 +37,7 @@ This data validated upstream data accuracy and flagged anomalies for review.
 
 • League-based score-keeping system implemented as a **.NET Core Web API** using **EF**
 backed by **MSSQL**. UX developed with **Angular 17**, **PrimeNG**, and **TypeScript**, connected
-to backend via **REST APIs**. Uses **GitHub Actions** for CI/CD.
+to backend via **REST APIs**. Uses **GitHub Actions** for CI/CD. Repo hosted on [GitHub](https://github.com/JDKaim/Goalpost-Ng).
 
 
 ### 📊 Goalpost June 2022 - Present
@@ -49,7 +49,7 @@ and **JS**. Shared via email, offline-capable, and adopted by 1/3 of local high 
 ### 🎮 KaimGames.com March 2020 - June 2020
 
 • During the COVID pandemic school closure, created browser-based games like
-Minesweeper and slide puzzles using **ASP.NET Core**, **C#**, and **SQL**.
+Minesweeper and slide puzzles using **ASP.NET Core**, **C#**, and **SQL**. Repo hosted on [GitHub](https://github.com/JDKaim/KaimGames).
 
 ## 🛠️ Skills
 💻 Practical experience with Python, Java, SQL, C#, ASP.NET Core, TypeScript, JavaScript, Angular, PrimeNG, HTML, CSS, Bootstrap, PowerShell, GitHub, GitHub Pages, Azure DevOps, Postman, Excel automation and development
