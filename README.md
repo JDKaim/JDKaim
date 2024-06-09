@@ -4,6 +4,11 @@
 Hi! I'm JD Kaim, a Software Engineering Intern at GitHub and a rising senior in the CS program at the University of Washington. I'm excited to contribute to innovative projects, learn from industry leaders, and make a meaningful impact in the software development world.
 
 ## 💼 Work Experience
+
+### :octocat: GitHub (Bellevue, WA)
+
+Software Engineering Intern June 2024 - September 2024
+
 ### 🖥️ ISOutsource (Bothell, WA)
 
 Software Engineering Intern July 2023 - September 2023
