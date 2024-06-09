@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🚀 About Me:
-Hi! I'm JD Kaim, a passionate college student seeking a software developer internship to contribute to fun and challenging projects, learn from industry experts, and make a meaningful impact in the software development realm.
+Hi! I'm JD Kaim, a Software Engineering Intern at GitHub and a rising senior in the CS program at the University of Washington. I'm excited to contribute to innovative projects, learn from industry leaders, and make a meaningful impact in the software development world.
 
 ## 💼 Work Experience
 ### 🖥️ ISOutsource (Bothell, WA)
