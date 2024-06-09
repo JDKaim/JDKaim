@@ -33,7 +33,7 @@ This data validated upstream data accuracy and flagged anomalies for review.
 ## 🎓 Education
 ### 🐺 University of Washington 
 
-**Bachelor of Science in Computer Science** - 3.7 GPA Expected 2026
+**Bachelor of Science in Computer Science** - 3.7 GPA Expected 2025
 
 53 credits (12 courses) in major primarily working with Java, NodeJS, React, and Python
 
