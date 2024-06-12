@@ -7,7 +7,7 @@ Hi! I'm JD Kaim, a Software Engineering Intern at GitHub and a rising senior in 
 
 ### :octocat: GitHub (Bellevue, WA)
 
-Software Engineering Intern June 2024 - September 2024
+Software Engineering Intern June 2024 - August 2024
 
 ### 🖥️ ISOutsource (Bothell, WA)
 
