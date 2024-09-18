@@ -9,6 +9,10 @@ Hi! I'm JD Kaim, a Software Engineering Intern at GitHub and a rising senior in 
 
 Software Engineering Intern June 2024 - August 2024
 
+• Refactored monolithic vulnerability management service written in **Python** into separate task services which could be independently scaled across **Kubernetes** deployments. Optimized service architecture to lower resource requirements and reduce execution time. Added auditing capabilities for improved insight into process and troubleshooting.
+
+• Abstracted export storage and queuing functionality to enable extensible worker deployments, including an **Azure** storage implementation. Worked with **Datadog** and **Splunk** to identify and address potential functional and performance issues.
+
 ### 🖥️ ISOutsource (Bothell, WA)
 
 Software Engineering Intern July 2023 - September 2023
