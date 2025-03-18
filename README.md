@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🚀 About Me:
-Hi! I'm JD Kaim, a former Software Engineering Intern at GitHub and a senior in the CS program at the University of Washington. I'm excited to contribute to innovative projects, learn from industry leaders, and make a meaningful impact in the software development world.
+Hi! I'm JD Kaim, a senior in the CS program at the University of Washington. I'm excited to contribute to innovative projects, learn from industry leaders, and make a meaningful impact in the software development world.
 
 ## 💼 Work Experience
 
