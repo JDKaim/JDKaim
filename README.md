@@ -5,7 +5,7 @@ Hi! I'm JD Kaim, a software engineer at Scale AI. I'm excited to contribute to i
 
 ## 💼 Work Experience
 
-### ↗️↗️↗️ Scale AI (San Francisco, CA)
+### ↗️ Scale AI (San Francisco, CA)
 
 Software Engineer July 2025 - Present
 
