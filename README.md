@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 ## 🚀 About Me:
-Hi! I'm JD Kaim, a senior in the CS program at the University of Washington. I'm excited to contribute to innovative projects, learn from industry leaders, and make a meaningful impact in the software development world.
+Hi! I'm JD Kaim, a software engineer at Scale AI. I'm excited to contribute to innovative projects, learn from industry leaders, and make a meaningful impact in the software development world.
 
 ## 💼 Work Experience
+
+### ↗️↗️↗️ Scale AI (San Francisco, CA)
+
+Software Engineer July 2025 - Present
 
 ### :octocat: GitHub (Bellevue, WA)
 
@@ -37,7 +41,7 @@ This data validated upstream data accuracy and flagged anomalies for review.
 ## 🎓 Education
 ### 🐺 University of Washington 
 
-**Bachelor of Science in Computer Science** - 3.7 GPA Expected 2025
+**Bachelor of Science in Computer Science**
 
 53 credits (12 courses) in major primarily working with Java, NodeJS, React, and Python
 
